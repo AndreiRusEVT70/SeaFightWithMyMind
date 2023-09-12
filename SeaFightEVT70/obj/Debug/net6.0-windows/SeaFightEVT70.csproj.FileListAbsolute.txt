@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\bin\Debug\net6.0-windows\SeaFightEVT70.exe
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\bin\Debug\net6.0-windows\SeaFightEVT70.deps.json
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\bin\Debug\net6.0-windows\SeaFightEVT70.runtimeconfig.json
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\bin\Debug\net6.0-windows\SeaFightEVT70.dll
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\bin\Debug\net6.0-windows\SeaFightEVT70.pdb
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.Form1.resources
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.AssemblyInfo.cs
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.dll
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\refint\SeaFightEVT70.dll
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.pdb
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\SeaFightEVT70.genruntimeconfig.cache
+C:\Users\user\source\repos\SeaFightEVT70\SeaFightEVT70\obj\Debug\net6.0-windows\ref\SeaFightEVT70.dll
